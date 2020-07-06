@@ -2,6 +2,7 @@ name: ldsc
 channels:
 - bioconda
 dependencies:
+- gcc
 - cython
 - python=2.7
 - bitarray=0.8
